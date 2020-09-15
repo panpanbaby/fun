@@ -1,0 +1,12 @@
+.idea
+out
+*.zip
+*.jpg
+*.rar
+*.avi
+*.jar
+*.class
+*.log.*
+*.log
+*.iml
+*.png
